@@ -1,0 +1,16 @@
+Before You Install PiXELL-River Account Manager
+
+Thank you for choosing PiXELL-River Account Manager! Before we proceed with the installation, please ensure the following requirements are met:
+
+1. System Requirements:
+    - Operating System: Windows 10 or newer
+    - RAM: Minimum 4GB
+    - Disk Space: Minimum 20GB free space
+    - An active internet connection for activation
+
+2. Please close all other applications before starting the installation. This will help in updating system files without interruptions.
+
+3. Ensure you have administrative rights on your computer to install software.
+
+Proceed with the installation by clicking 'Next'. We hope you enjoy using our software!
+                

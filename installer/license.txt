@@ -1,0 +1,15 @@
+End-User License Agreement (EULA) for PiXELL-River Account Manager
+
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL.
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and PiXELL-River Inc. for the PiXELL-River Account Manager software product, which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT").
+
+By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+
+1. GRANT OF LICENSE.
+The SOFTWARE PRODUCT is licensed as follows:
+(a) Installation and Use.
+MySoftware Inc. grants you the right to install and use copies of the SOFTWARE PRODUCT on your computer running a validly licensed copy of the operating system for which the SOFTWARE PRODUCT was designed [e.g., Windows 10].
+
+(b) Backup Copies.
+You may also make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes.
